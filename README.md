@@ -4,7 +4,7 @@
   </a>
 </div>
 
-### My name is David Amorim. I'm' a Front-End Jr. Developer.
+### My name is David Amorim. I'm' a Software Developer.
 
 <p align="left">
 <img height="30em" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=david-as&repo=david-as&countColorcountColor"/>

@@ -17,6 +17,28 @@ I'm **David Amorim**, a Full Stack Developer with over 6 years of experience bui
 
 ---
 
+### 💼 Professional Experience
+
+- **FCxLabs (Jan/2025 – Present)**  
+  Full stack development using React, Next.js, NestJS, and Node.js with TypeScript.  
+  Built microservices and APIs (REST & gRPC), implemented tests with Jest and Playwright, and participated in CI/CD processes with GitLab Pipelines.  
+  Monitored applications using Prometheus, Sentry, and NewRelic. Active in technical decisions and mentoring junior devs.
+
+- **TrackingTrade (Apr/2021 – Nov/2024)**  
+  Developed web and mobile applications using React, Next.js, and React Native.  
+  Contributed to backend APIs using Ruby on Rails and adopted TurboRepo for monorepo structure.  
+  Practiced TDD, technical documentation, and agile methodologies with cross-functional teams.
+
+- **HAUT Incorporadora Design (Jul/2019 – Dec/2020)**  
+  Built websites and internal tools with React and Node.js.  
+  Improved infrastructure security and performance by managing servers and internal networks.
+
+- **STILabs – UFPE (Nov/2020 – Apr/2021)**  
+  Created a web application using React and Spring Boot with a focus on security and scalability.  
+  First hands-on experience with unit testing and CI in a research environment.
+
+---
+
 ### 🛠️ Tech Stack
 
 #### 💡 Languages

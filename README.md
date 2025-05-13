@@ -52,19 +52,6 @@
 <img height="20em" src="https://img.shields.io/badge/-Bitbucket-0747a6?style=flat&logo=bitbucket&logoColor=white"/>
 </p>
 
-### Analytics ⚙️
-<p align="left">
-<a href="https://github.com/david-as">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-as&layout=compact&langs_count=8&theme=github_dark"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com?user=david-as&theme=github-dark" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=david-as&theme=dark&show_icons=true" />
-</a>
-</p>
-
 ### Social - Let's connect?  🤝
 
 
